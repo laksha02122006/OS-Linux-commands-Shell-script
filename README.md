@@ -3,6 +3,10 @@ Operating systems Lab exercise
 # Linux commands-Shell scripting
 Linux commands-Shell scripting
 
+Name:- V.B.Laksha
+
+Reg.no:- 212224220051
+
 # AIM:
 To practice Linux Commands and Shell Scripting
 
